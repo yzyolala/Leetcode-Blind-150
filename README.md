@@ -12,4 +12,6 @@ Arrays & Hashing
 Two Pointers
 --
 
-* []()
+* [125. Valid Palindrome](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/125.%20Valid%20Palindrome.md)
+
+* [15. 3Sum](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/15.%203Sum.md)
