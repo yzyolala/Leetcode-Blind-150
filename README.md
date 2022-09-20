@@ -20,3 +20,5 @@ LinkedList
 --
 
 * [19. Remove Nth Node From End of List](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+
+* [23. Merge k Sorted Lists](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/23.%20Merge%20k%20Sorted%20Lists.md)
