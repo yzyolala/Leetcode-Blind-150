@@ -33,3 +33,8 @@ TreeNode
 * [230. Kth Smallest Element in a BST](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 
 * [124. Binary Tree Maximum Path Sum](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+
+Stack
+--
+
+* [20. Valid Parentheses](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/20.%20Valid%20Parentheses.md)
