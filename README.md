@@ -38,3 +38,8 @@ Stack
 --
 
 * [20. Valid Parentheses](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/20.%20Valid%20Parentheses.md)
+
+Binary Search
+--
+
+* [153. Find Minimum in Rotated Sorted Array](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
