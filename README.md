@@ -61,3 +61,10 @@ Graphs
 * [133. Clone Graph](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/133.%20Clone%20Graph.md)
 
 * [207. Course Schedule](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/207.%20Course%20Schedule.md)
+
+Greedy
+--
+
+* [53. Maximum Subarray](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/53.%20Maximum%20Subarray.md)
+
+* [55. Jump Game](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/55.%20Jump%20Game.md)
