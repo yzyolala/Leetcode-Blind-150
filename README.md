@@ -73,3 +73,8 @@ DP
 --
 
 * [70. Climbing Stairs](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/70.%20Climbing%20Stairs.md)
+
+Backtracking
+--
+
+* [79. Word Search](https://github.com/yzyolala/True-leetcode-set/blob/main/%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
