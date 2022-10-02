@@ -47,7 +47,7 @@ Binary Search
 Sliding Window
 --
 
-* [121. Best Time to Buy and Sell Stock](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+* [121. Best Time to Buy and Sell Stock](https://github.com/yzyolala/Cisco/blob/main/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8.md)
 
 * [3. Longest Substring Without Repeating Characters](https://github.com/yzyolala/Leetcode-Blind-75/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
